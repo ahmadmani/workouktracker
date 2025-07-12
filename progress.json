@@ -1,3 +1,23 @@
 {
-  "91019149": {}
+  "91019149": {
+    "Bicep": {
+      "Barbell Curl": true,
+      "Preacher Curl or Concentration Curl": true,
+      "Bicep Curl": true,
+      "EZ Bar Curl sets": true,
+      "Incline Dumbbell Curl": true,
+      "Hammer Curl": true,
+      "Cable Curl": true
+    },
+    "history": {
+      "2025-07-12": 12
+    },
+    "Tricep": {
+      "Overhead Tricep Extension": true,
+      "Tricep Pushdown": true,
+      "Skull Crushers": true,
+      "Tricep Dips": true,
+      "Close-Grip Bench Press": true
+    }
+  }
 }
