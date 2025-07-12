@@ -1,0 +1,41 @@
+{
+  "Bicep": [
+    "Barbell Curl",
+    "Preacher Curl or Concentration Curl",
+    "Bicep Curl",
+    "EZ Bar Curl sets",
+    "Incline Dumbbell Curl",
+    "Hammer Curl",
+    "Cable Curl"
+  ],
+  "Tricep": [
+    "Overhead Tricep Extension",
+    "Cable Tricep Pushdown",
+    "Tricep Pushdown",
+    "Skull Crushers",
+    "Tricep Dips",
+    "Tricep Rope + Lateral Raise",
+    "Close-Grip Bench Press",
+    "Tricep Rope Pushdown",
+    "Overhead Cable Tricep",
+    "Pushdown"
+  ],
+  "Chest": [
+    "Incline Dumbbell Press",
+    "Cable Crossover or Chest Dips",
+    "Close-Grip Bench Press"
+  ],
+  "Back": [
+    "Lat Pulldown (wide grip)",
+    "Seated Row or Dumbbell Row",
+    "Face Pulls"
+  ],
+  "Shoulder": [
+    "Seated Overhead Dumbbell Press",
+    "Lateral Raise",
+    "Rear Delt Fly",
+    "Standing Barbell Overhead Press",
+    "Arnold Press",
+    "Cable Rear Delt Pulls or Reverse Flys"
+  ]
+}
